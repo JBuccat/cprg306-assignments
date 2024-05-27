@@ -5,7 +5,7 @@ export default function StudentInfo() {
     return (
         <div>
         <p>Jonathan Buccat</p>
-        <Link href="https://github.com/JBuccat?tab=repositories"></Link>
+        <Link href="https://github.com/JBuccat?tab=repositories">https://github.com</Link>
     </div>
     );
 }
